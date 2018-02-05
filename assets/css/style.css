@@ -1,3 +1,8 @@
 body {
-    background-color: blue
+    background-image:url(http://www.orangesmile.com/common/img_cities_original/jolly-beach-nobo14-44.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 2000px;
+
+    color: red;
+
 };
